@@ -5,3 +5,4 @@ Na verdade o Otrobaldo esteve aqui!
 =======
 blabla
 >>>>>>> parent of 04c0b10 (Aprimoramento do Texto)
+blabla
