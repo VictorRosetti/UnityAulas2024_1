@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 blabla
 Teobaldo esteve aqui!
-Na verdade o Otrobaldo esteve aqui!
+Na verdade o Otrobaldo esteve aqui!Na verdade o Otrobaldo esteve aqui!
+=======
+>>>>>>> parent of 04c0b10 (Aprimoramento do Texto)
