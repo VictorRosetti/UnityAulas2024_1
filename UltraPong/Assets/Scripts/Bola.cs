@@ -27,4 +27,13 @@ public class Bola : MonoBehaviour
     {
         
     }
+
+    void OnCollisionEnter(Collision batida)
+    {
+        if((batida.gameObject.name == "BEsquerda") || (batida.gameObject.name=="BDireita"))
+        {
+            transform.position = new Vector3(0,1,9);
+            Start();
+        }
+    }
 }
